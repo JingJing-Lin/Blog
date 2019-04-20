@@ -2,9 +2,15 @@
 
 
 
+[16.SDWebImage下载透明图片显示白底的问题](https://github.com/JingJing-Lin/Blog/blob/master/Blog/SDWebImage下载透明图片显示白底的问题.md)
+
+[15.iOS开发利器](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS开发利器.md)
+
+[14.iOS项目的.gitignore配置](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS项目的.gitignore配置.md)
+
 [13.高德地图-拖拽地图定位](https://github.com/JingJing-Lin/Blog/blob/master/Blog/高德地图-拖拽地图定位.md)
 
-[12.iOS URL 字符转义问题](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS URL 字符转义问题.md)
+[12.URL字符转义问题(iOS)](https://github.com/JingJing-Lin/Blog/blob/master/Blog/URL字符转义问题(iOS).md)
 
 [11.FlappyBirdSwift2](https://github.com/JingJing-Lin/Blog/blob/master/Blog/FlappyBirdSwift2.md)
 
