@@ -1,20 +1,20 @@
 Xcode的代码片段(Code Snippets)创建自定义的代码片段，当你重用这些代码片段时，会给你带来很大的方便。
 ###  常用的：
-1.strong：
-`@property (nonatomic, strong) <#Class#> *<#object#>;  `
-2.weak：
-`@property (nonatomic, weak) <#Class#> *<#object#>;  `
-3.copy：
-`@property (nonatomic, copy) NSString *<#string#>;  `
-4.assign：
-`@property (nonatomic, assign) <#Class#> <#property#>;  `
-5.delegate：
-`@property (nonatomic, weak) id<<#protocol#>> <#delegate#>;  `
-6.block：
-`@property (nonatomic, copy) <#returnType#>(^<#blockName#>)(<#arguments#>); `
-7.mark：
-`#pragma mark - <#mark#>  `
-8.ReUseCell：
+1.strong：  
+`@property (nonatomic, strong) <#Class#> *<#object#>;  `   
+2.weak：  
+`@property (nonatomic, weak) <#Class#> *<#object#>;  `  
+3.copy：  
+`@property (nonatomic, copy) NSString *<#string#>;  `  
+4.assign：  
+`@property (nonatomic, assign) <#Class#> <#property#>;  `  
+5.delegate：  
+`@property (nonatomic, weak) id<<#protocol#>> <#delegate#>;   ` 
+6.block：  
+`@property (nonatomic, copy) <#returnType#>(^<#blockName#>)(<#arguments#>); `  
+7.mark：  
+`#pragma mark - <#mark#>  `  
+8.ReUseCell：  
 ```
 static NSString *rid=<#rid#>;  
   
