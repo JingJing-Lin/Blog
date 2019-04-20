@@ -1,10 +1,16 @@
 下雨天，在家敲代码很爽哦~~~
 ![亦菲女神](http://upload-images.jianshu.io/upload_images/1518951-286331ddd449fcb6.jpg)  闲话不多说，放效果图：
 ![BeeQuick.gif](http://upload-images.jianshu.io/upload_images/1518951-b2a3865e34deaf52.gif?imageMogr2/auto-orient/strip)
-###正文
-####一、准备
+
+
+
+### 正文
+
+#### 一、准备
+
 1.第三方库：本Demo用到的第三方库有：MJRefresh、Masonry、MJExtension、SDWebImage ，都是比较常见的，使用也比较多的。
 2.分类：UIImage、UIImageView
+
  - 颜色转换为图片
 ```
 +(UIImage *)createImageWithColor:(UIColor *)color {
@@ -28,7 +34,8 @@
 ```
 3.资源：数据库及图片
 
-####二、绘制视图View
+#### 二、绘制视图View
+
  - 一级表（左）
 ```
 self.categoriesTableView = ({
@@ -67,7 +74,8 @@ self.productsController = [[ProductsController alloc]init];
 }
 ```
 
-####三、左右表二级联动
+#### 三、左右表二级联动
+
 在第一个控制器中，声明一个代理协议方法；
 ```
 @protocol CategoryTableViewDelagate <NSObject>
@@ -124,7 +132,8 @@ self.productsController = [[ProductsController alloc]init];
     [self.categoriesTableView selectRowAtIndexPath:[NSIndexPath indexPathForRow:section+1 inSection:0] animated:YES scrollPosition:UITableViewScrollPositionMiddle];
 }
 ```
-####四、获得表数据
+#### 四、获得表数据
+
 由于Demo需要，采用的是本地数据库数据，通过MJExtension动态加载属性。
 ```
 NSString *path = [[NSBundle mainBundle] pathForResource:@"supermarket" ofType:nil];
@@ -140,7 +149,8 @@ NSString *path = [[NSBundle mainBundle] pathForResource:@"supermarket" ofType:ni
     complete(superMarketData,nil);
 ```
 
-####五、刷新表
+#### 五、刷新表
+
 自定义继承自MJRefreshGifHeader的一个类，通过实现父类的方法，来完成下拉刷新功能。
 ```
 - (void)prepare {

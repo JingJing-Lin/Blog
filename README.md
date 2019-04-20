@@ -2,6 +2,8 @@
 
 
 
+[iOS支付封装(微信、支付宝)](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS支付封装(微信、支付宝).md)
+
 [仿爱鲜蜂首页(iOS)](https://github.com/JingJing-Lin/Blog/blob/master/Blog/仿爱鲜蜂首页(iOS).md)
 
 [仿爱鲜蜂二级联动(iOS)](https://github.com/JingJing-Lin/Blog/blob/master/Blog/仿爱鲜蜂二级联动(iOS).md)   

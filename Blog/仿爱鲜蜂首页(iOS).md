@@ -2,7 +2,10 @@
 ![亦菲女神](http://upload-images.jianshu.io/upload_images/1518951-35d3906ffdf37d89.jpg)
 先放效果图哦：
 ![BeeQuick_2.gif](http://upload-images.jianshu.io/upload_images/1518951-bde999ecdbba92ff.gif?imageMogr2/auto-orient/strip)
-###正文
+
+
+### 正文
+
 这版时间基本上花在了用Masonry布局UICollectionView上，都是些比较基本的，不同的是代码格式更清晰，易于阅读。
 下面说些本项目用到的一些可以复用的知识点。
 - 字符串转颜色的分类
@@ -50,7 +53,6 @@
 [self setKeyScrollView:self.collectionView scrolOffsetY: 200 options:HYHidenControlOptionTitle];
 [self setNavBarBackgroundImage:[UIImage createImageWithColor:COLOR_YELLOW]];
 ```
-
 
 其它的可以看下[仿“爱鲜蜂”二级联动(iOS)](http://www.jianshu.com/p/f7dd1aa9c737)，最新版本已经上传至github，并解决上次遗留的bug，这里就不在重复讲解了。具体请看我的[【DEMO】](https://github.com/JingJing-Lin/BeeQuick_Two)吧
 相互学习，提高iOS开发技术~~
