@@ -1,5 +1,7 @@
-#####副标题：图片下载
+#### 副标题：图片下载
+
 最近做一个首页悬浮按钮功能，我们的逻辑是根据接口来获取图片链接及是否显示,类似于美团这种功能~
+
 ![美团.jpg](https://upload-images.jianshu.io/upload_images/1518951-b5d313e0281993a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 尴尬的是：SDWebImage下载的PNG图片却有白底
@@ -129,3 +131,4 @@ else{
 NSData *data = UIImageJPEGRepresentation(self, 1.0);
 `
 导致了下载透明图片显示白底的问题，在仔细看，不对劲啊，这个压缩方法不是SDWebImage里面的啊，原来是以前的同事由于某个需求加进去了，这就尴尬了，纯属乌龙事件啊，真是冤枉SDWebImage了，在此向[her](https://github.com/rs/SDWebImage)道歉了~
+

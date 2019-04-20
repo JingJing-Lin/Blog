@@ -2,6 +2,12 @@
 
 
 
+[19.Mac搭建Flutter开发环境](https://github.com/JingJing-Lin/Blog/blob/master/Blog/Mac搭建Flutter开发环境.md)
+
+[18.iOS单元测试-XCTest](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS单元测试-XCTest.md)
+
+[17.iOS 半透明新手引导的封装](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS 半透明新手引导的封装.md)
+
 [16.SDWebImage下载透明图片显示白底的问题](https://github.com/JingJing-Lin/Blog/blob/master/Blog/SDWebImage下载透明图片显示白底的问题.md)
 
 [15.iOS开发利器](https://github.com/JingJing-Lin/Blog/blob/master/Blog/iOS开发利器.md)
