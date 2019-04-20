@@ -1,5 +1,7 @@
-下雨天，在家敲代码很爽哦~~~
-![亦菲女神](http://upload-images.jianshu.io/upload_images/1518951-286331ddd449fcb6.jpg)  闲话不多说，放效果图：
+下雨天，在家敲代码很爽哦~~~  
+![亦菲女神](http://upload-images.jianshu.io/upload_images/1518951-286331ddd449fcb6.jpg)  
+
+闲话不多说，放效果图：  
 ![BeeQuick.gif](http://upload-images.jianshu.io/upload_images/1518951-b2a3865e34deaf52.gif?imageMogr2/auto-orient/strip)
 
 

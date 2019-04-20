@@ -218,7 +218,8 @@ typedef NS_ENUM(NSInteger, PayCode) {
     } 
 }
 ```
-####支付调用
+#### 支付调用    
+
 好了，哪里用到写哪里
 - 微信
 

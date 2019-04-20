@@ -1,7 +1,12 @@
 最近在学Swift 3.0，更新慢了点，勿怪哦~~
 ![亦菲女神](http://upload-images.jianshu.io/upload_images/1518951-35d3906ffdf37d89.jpg)
-先放效果图哦：
+
+
+
+先放效果图哦：  
+
 ![BeeQuick_2.gif](http://upload-images.jianshu.io/upload_images/1518951-bde999ecdbba92ff.gif?imageMogr2/auto-orient/strip)
+
 
 
 ### 正文
